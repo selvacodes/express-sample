@@ -15,6 +15,13 @@ yarn install
 Needs node > 6 
 Postman to test 
 
+### To run app
+```
+npm run start
+or
+yarn run start
+```
+
 ### Get URLS
  - http://localhost:4000/gods
  - http://localhost:4000/god/:godId
@@ -29,6 +36,15 @@ keys : name , tag
 ## Built With
 
 * Express js
+
+### Misc 
+Uses prettier to format. To Format 
+```
+npm run format
+or
+yarn run format
+``` 
+
 
 
 
