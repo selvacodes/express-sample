@@ -1,0 +1,24 @@
+{
+    "gods": [
+        {
+            "id": 1,
+            "name": "Zeus",
+            "tag": "God of the Sky"
+        },
+        {
+            "id": 2,
+            "name": "Ares",
+            "tag": "God of War"
+        },
+        {
+            "id": 3,
+            "name": "Poseidon",
+            "tag": "God of the Sea"
+        },
+        {
+            "id": 4,
+            "name": "Hades",
+            "tag": "God of the Underworld"
+        }
+    ]
+}

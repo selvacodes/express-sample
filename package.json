@@ -1,0 +1,17 @@
+{
+  "name": "express-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server",
+    "format": "prettier --no-semi --write *.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "prettier": "^1.4.4"
+  }
+}
